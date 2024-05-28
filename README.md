@@ -1,26 +1,26 @@
 # BlockClickerGame
 Incremental games, also known as clicker games or idle games, have gained significant popularity in recent years. These games often feature simple mechanics where players perform repetitive actions, such as clicking on a block, to earn rewards and progress. BlockClickerGame fits within this genre, offering players the chance to click blocks, earn XP, level up, and upgrade their damage.
-
+discord-- https://discord.gg/QyF3dP5hWT
 codes
 
-"super1234": { cash: 100, message: "You've received 100 cash." },
+"super1234": 
 
-"freecash": { cash: 200, message: "You've received 200 cash." },
+"freecash":
 
-"beta": { cash: 200, message: "You've received 200 cash." },
+"beta": 
 
-"newgame": { cash: 200, message: "You've received 200 cash." },
+"newgame": 
 
-"freeupgrade": { cash: 0, message: "You've received 10 + Damage." },
+"freeupgrade":
 
-"freecashperblockupgrade": { cash: 0, message: "You've received 10 + CashPerBlock." },   
+"freecashperblockupgrade":   
 
-"10levels": { level: 10, expirationDuration: { days: 23, hours: 0, minutes: 0, seconds: 0 }, message: "You've received 10 Free Levels." },
+"10levels":
 
-"10prestiges": { cash: 0, expirationDuration: { days: 23, hours: 0, minutes: 0, seconds: 0 }, message: "You've received 10 Free Prestige." },
+"10prestiges": 
 
-"doublecash10min": { multiplier: { type: 'cash', value: 2 }, expirationDuration: { days: 0, hours: 0, minutes: 10, seconds: 0 }, message: "You've activated 2x cash for 10 minutes!" },
+"doublecash10min":
 
-"doubledamage10min": { multiplier: { type: 'damage', value: 2 }, expirationDuration: { days: 0, hours: 0, minutes: 10, seconds: 0 }, message: "You've activated 2x damage for 10 minutes!" },
+"doubledamage10min":
 
 
